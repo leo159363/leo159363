@@ -79,13 +79,6 @@
 
 ---
 
-### 🌗 Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ### 📫 How to Reach Me
 
 - 💬 Ask me about: **Test Automation, MCP, RAG, Python**
