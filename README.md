@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td width="40%" align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=leo159363&show_icons=true&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true&count_private=true" />
+      <img src="https://gh-readme-stats.vercel.app/api?username=leo159363&show_icons=true&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true&count_private=true" />
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
     </td>
     <td width="45%" align="right">
       <a href="https://github.com/leo159363/AI-driven-test-automation-platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=leo159363&repo=AI-driven-test-automation-platform&theme=transparent&hide_border=true" />
+        <img src="https://gh-readme-stats.vercel.app/api/pin/?username=leo159363&repo=AI-driven-test-automation-platform&theme=transparent&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=leo159363&show_icons=true&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true&count_private=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo159363&layout=compact&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true" />
+  <img width="45%" src="https://gh-readme-stats.vercel.app/api?username=leo159363&show_icons=true&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true&count_private=true" />
+  <img width="45%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=leo159363&layout=compact&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true" />
 </p>
 
 ---
