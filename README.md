@@ -1,75 +1,61 @@
-<h2 align="center">Hi there 👋, I'm Leo</h2>
-<h3 align="center">QA Engineer & Test Automation Developer from China</h3>
+# Hi, I'm Leo
 
----
+我正在准备测试开发方向，重点学习和实践 **自动化测试、接口测试、AI 测试平台、MCP、RAG、CI/CD**。
 
-### ⚡️ A Few Quick Facts
+## Featured Project
 
-<img align="right" src="https://gh-readme-stats.vercel.app/api?username=leo159363&show_icons=true&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true&count_private=true" />
+### [QualityPilot: AI-driven Test Automation Platform](https://github.com/leo159363/AI-driven-test-automation-platform)
 
-- 🧪 Focusing on **Test Automation** & AI-driven Quality Engineering
-- 🤖 Building intelligent testing platform with **MCP + RAG**
-- 🌱 Learning AI agents, tool calling, and workflow automation
-- 🔭 Open to collaborating on AI & open-source testing projects
-- ⚡ Fun fact: Code is my second language, tests are my first.
+QualityPilot 是一个基于 **Vue + FastAPI + MCP + RAG + pytest + Allure** 的智能自动化测试平台，面向测试开发场景。
 
-<br clear="right" />
+核心流程：
 
----
+```text
+测试知识入库 -> RAG 检索 -> AI 生成测试用例
+  -> pytest 自动化执行 -> JUnit / Allure 报告解析
+  -> 失败原因分析 -> Bug 报告草稿生成
+```
 
-### 🚀 Featured Project
+项目能力：
 
-<img align="right" src="https://gh-readme-stats.vercel.app/api/pin/?username=leo159363&repo=AI-driven-test-automation-platform&theme=transparent&hide_border=true" />
+- API 测试中心：接口目录、请求样例、Headers、Body、断言、关联测试用例
+- 接口调试：支持状态码断言和 JSON 字段断言
+- 自动化执行：前端触发后端 pytest 场景
+- 测试报告：解析 JUnit XML，发现 Allure 结果产物
+- RAG 知识库：支持需求、接口文档、历史 Bug、测试报告、日志、测试规范
+- AI 测试助手：生成测试用例、失败分析、Bug 报告草稿
+- MCP tools：把检索、生成、执行、报告、分析封装成可编排工具
 
-**QualityPilot** — 基于 MCP + RAG 的智能测试自动化平台
+技术栈：
 
-> 📄 文档上下文 → 🧪 测试用例生成 → ⚡ API/UI 自动执行 → 📊 报告生成 → 🔍 失败分析 → 🐛 Bug 草稿
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?logo=fastapi&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-3-4FC08D?logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-frontend-3178C6?logo=typescript&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-automation-0A9EDC)
+![Allure](https://img.shields.io/badge/Allure-reporting-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-2088FF?logo=githubactions&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-backend-green)
-![Vue](https://img.shields.io/badge/Vue-3-brightgreen)
-![MCP](https://img.shields.io/badge/MCP-Server-orange)
-![CI](https://img.shields.io/badge/CI-passing-brightgreen)
+## What I'm Learning
 
-<br clear="right" />
+- Python 自动化测试与 pytest
+- 接口测试平台设计
+- FastAPI 后端开发
+- Vue + TypeScript 前端开发
+- JUnit / Allure 测试报告解析
+- MCP tools 与 Agent 工作流
+- RAG 在测试用例生成和失败分析中的应用
+- GitHub Actions 持续集成
 
----
+## Repository Focus
 
-### 📊 GitHub Stats
+| Repository | Description |
+| --- | --- |
+| [AI-driven-test-automation-platform](https://github.com/leo159363/AI-driven-test-automation-platform) | 基于 MCP + RAG 的智能自动化测试平台 |
+| [cqwm_code](https://github.com/leo159363/cqwm_code) | Spring Boot 后端项目练习 |
+| [test](https://github.com/leo159363/test) | Java 后端练习项目 |
 
-<p align="center">
-  <img width="45%" src="https://gh-readme-stats.vercel.app/api?username=leo159363&show_icons=true&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true&count_private=true" />
-  <img width="45%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=leo159363&layout=compact&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true" />
-</p>
+## Contact
 
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leo159363" alt="visitors" />
-</p>
-
----
-
-### 📫 How to Reach Me
-
-- 💬 Ask me about: **Test Automation, MCP, RAG, Python**
-- 📧 Email: *（如需展示请补充）*
+- GitHub: [leo159363](https://github.com/leo159363)
+- Focus: Test Automation, API Testing, AI Testing Platform, MCP, RAG
